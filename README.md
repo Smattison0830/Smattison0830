@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Spencer</h1>
-<h3 align="center">A newbie frontend and backend developer from the U.S.A.</h3>
+<h3 align="center">A full-stack developer living in Osaka, Japan. I'm originally from the U.S.A.</h3>
 
 - 🔭 I’m currently working on [Midorin](https://github.com/HundiBar/Midorin)
 
-- 🌱 I’m currently polishing up my **HTML,CSS and Javascript**
+- 🌱 I’m currently polishing up my **HTML, CSS and Javascript**
 
 
 <h3 align="left">Languages and Tools:</h3>

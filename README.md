@@ -3,7 +3,12 @@
 
 - 🔭 I’m currently working on [Midorin](https://github.com/HundiBar/Midorin)
 
-- 🌱 I’m currently polishing up my **HTML, CSS and Javascript**
+- 🐱 I’m currently working on making English games for students. (link soon!)
+
+- 🖌 I’m currently polishing up my **HTML, CSS and Javascript**
+
+- 🌱 I’m currently learning **React**
+
 
 
 <h3 align="left">Languages and Tools:</h3>

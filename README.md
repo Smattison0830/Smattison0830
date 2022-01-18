@@ -1,9 +1,7 @@
 <h1 align="center">Hey 👋, I'm Spencer</h1>
 <h3 align="center">A full-stack developer living in Osaka, Japan. I'm originally from the U.S.A.</h3>
 
-- 🔭 I’m currently working on [Midorin](https://github.com/HundiBar/Midorin)
-
-- 🐱 I’m currently working on making English games for students. (link soon!)
+- 🔭 I’m currently working on [Tango Typhoon](https://github.com/Smattison0830/Tango-Typhoon) a vocabulary game for elementary school kids.
 
 - 🖌 I’m currently polishing up my **HTML, CSS and Javascript**
 

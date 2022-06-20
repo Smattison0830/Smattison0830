@@ -5,7 +5,7 @@
 
 - 🖌 I’m currently polishing up my **HTML, CSS and Javascript**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN stack(MangoDB, Express, React, Node.js**
 
 
 
